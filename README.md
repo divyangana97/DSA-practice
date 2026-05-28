@@ -1,2 +1,3 @@
-# DSA-practice
-Data Structures and Algorithms practice for learning and interview preparation.
+
+# DSA Practice
+This repository contains my DSA practice programs.
